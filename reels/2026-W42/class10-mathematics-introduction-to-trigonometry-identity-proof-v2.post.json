@@ -1,5 +1,5 @@
 {
-  "coverMs": 4800,
+  "coverMs": 4000,
   "instagram": {
     "text": "Trig Identity Proof, Class 10 board exam: ye proof dekh ke dar lagta hai? Prove (1 + tan A)² + (1 - tan A)² = 2 sec²A step by step, from the LHS to the RHS.\n\n• Start from the LHS and expand both squares: 1 + 2 tan A + tan²A and 1 - 2 tan A + tan²A\n• Add them: +2 tan A and -2 tan A cancel, so LHS = 2 + 2 tan²A\n• Take 2 common: LHS = 2(1 + tan²A)\n• Use 1 + tan²A = sec²A: LHS = 2 sec²A = RHS, hence proved\n• Comment the next question you want solved\n\nA 24×7 AI tutor for CBSE Classes 6–12. Get started for free at kedovo.com (link in bio)\n\nAbout Kedovo: India's smartest AI tutor for CBSE Classes 6–12. Chapter notes, NCERT solutions, flashcards, practice and 24×7 doubt-solving that knows your chapter, 100% NCERT aligned.\n\n#class10maths #trigonometry #cbse #boardexam #kedovoai"
   },
