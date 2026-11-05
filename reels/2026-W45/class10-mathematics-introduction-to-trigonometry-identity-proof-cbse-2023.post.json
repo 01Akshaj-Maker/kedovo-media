@@ -1,0 +1,36 @@
+{
+  "coverMs": 3000,
+  "instagram": {
+    "text": "Trig Identity Proof (CBSE 2023), Class 10 board, 5 marks: prove (sin θ − cos θ + 1)/(sin θ + cos θ − 1) = (1 + sin θ)/cos θ with one trick.\n\n• Divide every term by cos θ: (tan θ − 1 + sec θ)/(tan θ + 1 − sec θ)\n• Rearrange to ((sec θ + tan θ) − 1)/(tan θ − sec θ + 1)\n• The trick: write 1 = sec²θ − tan²θ = (sec θ + tan θ)(sec θ − tan θ)\n• Take (sec θ + tan θ) common: the bracket [1 − sec θ + tan θ] cancels with the denominator\n• sec θ + tan θ = 1/cos θ + sin θ/cos θ = (1 + sin θ)/cos θ = RHS\n• Comment the next question you want solved\n\nA 24×7 AI tutor for CBSE Classes 6–12. Get started for free at kedovo.com (link in bio)\n\nAbout Kedovo: India's smartest AI tutor for CBSE Classes 6–12. Chapter notes, NCERT solutions, flashcards, practice and 24×7 doubt-solving that knows your chapter, 100% NCERT aligned.\n\n#class10maths #trigonometry #cbse #boardexam #kedovoai",
+    "firstComment": "Kaunsa question next solve karein? Comment karo 👇",
+    "altText": "Class 10 Maths, Introduction to Trigonometry: Trig Identity Proof (CBSE 2023). Prove (sin θ − cos θ + 1)/(sin θ + cos θ − 1) = (1 + sin θ)/cos θ | CBSE 2023"
+  },
+  "youtube": {
+    "title": "Prove (sin θ − cos θ + 1)/(sin θ + cos θ − 1) = (1 + sin θ)/cos θ | CBSE 2023",
+    "text": "Trig Identity Proof (CBSE 2023), Class 10 board, 5 marks: prove (sin θ − cos θ + 1)/(sin θ + cos θ − 1) = (1 + sin θ)/cos θ with one trick.\n\n• Divide every term by cos θ: (tan θ − 1 + sec θ)/(tan θ + 1 − sec θ)\n• Rearrange to ((sec θ + tan θ) − 1)/(tan θ − sec θ + 1)\n• The trick: write 1 = sec²θ − tan²θ = (sec θ + tan θ)(sec θ − tan θ)\n• Take (sec θ + tan θ) common: the bracket [1 − sec θ + tan θ] cancels with the denominator\n• sec θ + tan θ = 1/cos θ + sin θ/cos θ = (1 + sin θ)/cos θ = RHS\n• Comment the next question you want solved\n\nGet started for free on Kedovo: https://kedovo.com/class10/mathematics\n\nAbout Kedovo: India's smartest AI tutor for CBSE Classes 6–12. Chapter notes, NCERT solutions, flashcards, practice and 24×7 doubt-solving that knows your chapter, 100% NCERT aligned.\n\n#Shorts #class10maths #trigonometry #cbse #ncert #boardexam #maths #KedovoAI",
+    "tags": [
+      "class 10 maths",
+      "trigonometric identities class 10",
+      "cbse 2023 maths question",
+      "prove that trigonometry",
+      "sec tan identity",
+      "introduction to trigonometry",
+      "5 marks question class 10",
+      "cbse class 10 maths",
+      "introduction to trigonometry class 10",
+      "ncert class 10 maths",
+      "board exam",
+      "kedovo"
+    ],
+    "category": "EDUCATION",
+    "notifySubscribers": true,
+    "madeForKids": false,
+    "studio": {
+      "videoLanguage": "Hindi",
+      "titleLanguage": "English",
+      "playlist": "Class 10 Maths | Kedovo",
+      "captions": "YouTube auto-captions: check the maths terms, then publish"
+    }
+  },
+  "voice": "sarvam:bulbul:v3:shubh"
+}
